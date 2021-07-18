@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://smathur910.github.io/csb-hqf3y/static/css/main.6c5aff51.chunk.css",
+    "main.js": "https://smathur910.github.io/csb-hqf3y/static/js/main.ed47cb25.chunk.js",
+    "main.js.map": "https://smathur910.github.io/csb-hqf3y/static/js/main.ed47cb25.chunk.js.map",
+    "runtime-main.js": "https://smathur910.github.io/csb-hqf3y/static/js/runtime-main.000b7e3e.js",
+    "runtime-main.js.map": "https://smathur910.github.io/csb-hqf3y/static/js/runtime-main.000b7e3e.js.map",
+    "static/js/2.59043920.chunk.js": "https://smathur910.github.io/csb-hqf3y/static/js/2.59043920.chunk.js",
+    "static/js/2.59043920.chunk.js.map": "https://smathur910.github.io/csb-hqf3y/static/js/2.59043920.chunk.js.map",
+    "index.html": "https://smathur910.github.io/csb-hqf3y/index.html",
+    "static/css/main.6c5aff51.chunk.css.map": "https://smathur910.github.io/csb-hqf3y/static/css/main.6c5aff51.chunk.css.map",
+    "static/js/2.59043920.chunk.js.LICENSE.txt": "https://smathur910.github.io/csb-hqf3y/static/js/2.59043920.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.000b7e3e.js",
+    "static/js/2.59043920.chunk.js",
+    "static/css/main.6c5aff51.chunk.css",
+    "static/js/main.ed47cb25.chunk.js"
+  ]
+}
